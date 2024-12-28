@@ -139,8 +139,9 @@ const KanbanBoard = () => {
         color="primary"
         sx={{
           position: 'fixed',
-          bottom: 16,
+          bottom: 90,
           right: 16,
+          zIndex: 999,
         }}
         onClick={() => setDialogOpen(true)}
       >
