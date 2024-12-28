@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/kanban_Board/static/js/main.a71e977e.js",
-    "index.html": "/kanban_Board/index.html",
-    "main.a71e977e.js.map": "/kanban_Board/static/js/main.a71e977e.js.map"
+    "main.js": "/Kanban_Board/static/js/main.a71e977e.js",
+    "index.html": "/Kanban_Board/index.html",
+    "main.a71e977e.js.map": "/Kanban_Board/static/js/main.a71e977e.js.map"
   },
   "entrypoints": [
     "static/js/main.a71e977e.js"
